@@ -127,7 +127,7 @@ const Footer = () => {
           href="https://github.com/bchiang7/v4"
           target="_blank"
           rel="nofollow noopener noreferrer">
-          <div>Thanks to Brittany Chiang for design</div>
+          <div>Thanks Brittany Chiang for design</div>
 
           {githubInfo.stars && githubInfo.forks && (
             <StyledGitHubInfo>

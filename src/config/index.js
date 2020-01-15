@@ -4,10 +4,10 @@ module.exports = {
     'Shivam Singh is a software engineer based in New York who specializes in developing exceptional, high-quality websites and applications.',
   siteKeywords:
     'Shivam, Singh, Shivam Singh, software engineer, front-end engineer, web developer, javascript, rails, ruby, stony brook',
-  siteUrl: 'https://shivam.singh',
+  siteUrl: 'https://singhshivam.github.io',
   siteLanguage: 'en_US',
-  googleAnalyticsID: 'UA-456XXXXX-2',
-  googleVerification: 'DCl7VAf9tcz6eD9gb67NfkNnJ1PKRNcgXXXXXXXX9Lk',
+  googleAnalyticsID: 'UA-51909229-3',
+  googleVerification: 'vkyfk7CckGwWaXxLjPGquRktAAjyUg_P68NSvszOUnU',
   name: 'Shivam Singh',
   location: 'Stony Brook, NY',
   email: 'singhshivam.172@gmail.com',

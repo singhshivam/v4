@@ -10,6 +10,8 @@ skills:
   - MySql
 ---
 
-Hello! I'm Shivam. I am currently pursuing MS in Computer Science at the [Stony Brook University](https://www.cs.stonybrook.edu/), NY. Before attending Stony Brook University I was a senior software engineer at [BlogVault](https://blogvault.net), a website backup & security company. I joined BlogVault as the first employee and played a vital role in building and scaling the company.
+I am experienced in building software products from the ground up, strategizing product development and leading engineering teams. Motivated by product success and business growth I am an incisive decision-maker. As the first hire at [BlogVault](https://blogvault.net), I played a vital role in growing the company 20x in size and revenue.
+
+I will be joining Amazon as a Summer Intern and am interested in full-time positions starting Jan 2021.
 
 Here are a few technologies I've been working with recently:

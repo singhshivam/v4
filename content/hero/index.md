@@ -1,8 +1,8 @@
 ---
 title: 'Hi, my name is'
 name: 'Shivam Singh'
-subtitle: 'I build things for the web.'
+subtitle: "I'm a Software Engineer"
 contactText: 'Get In Touch'
 ---
 
-I'm a software engineer based in New York currently pursuing my masters in Computer Science at SUNY Stony Brook University.
+I have 5+ years of experience as a software engineer, project manager, and team builder. I am currently pursuing a master's in Computer Science at [Stony Brook University](https://www.cs.stonybrook.edu/), NY.
